@@ -71,9 +71,12 @@ Not every future addition must be present at the start. OFER is expected to grow
 
 OFER is currently being developed using material derived from:
 
-- Black Flag Reference Document 1.0 (BFRD 1.0)
+- A5E System Reference Document (A5ESRD) by EN Publishing
+- Black Flag Reference Document 1.0 (BFRD 1.0) by Kobold Press
+- System Reference Document 5.1 (SRD 5.1) by Wizards of the Coast LLC
+- System Reference Document 5.2 (SRD 5.2) by Wizards of the Coast LLC
 
-At this stage, only sources actually used by the project are attributed in the root attribution files. Additional sources may be added later if and when they are used.
+At this stage, only sources actually used by the project are attributed in the root attribution files. Additional compatible sources may be added later if and when they are used.
 
 ## Licensing and Attribution
 
@@ -85,14 +88,14 @@ This repository contains a mix of:
 
 Current upstream attribution is limited to the sources actually used in the repository.
 
-The current upstream source is:
+The current upstream sources are:
 
+- A5E System Reference Document (A5ESRD) by EN Publishing
 - Black Flag Reference Document 1.0 (BFRD 1.0) by Kobold Press
+- System Reference Document 5.1 (SRD 5.1) by Wizards of the Coast LLC
+- System Reference Document 5.2 (SRD 5.2) by Wizards of the Coast LLC
 
-Kobold Press provides the following attribution wording for projects using BFRD 1.0 material:
-
-Attribution: This work includes material taken from the Black Flag Reference Document 1.0 ("BFRD 1.0") by Kobold Press and available at https://koboldpress.com/Black-Flag-Roleplaying.
-The BFRD 1.0 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
+These sources are used subject to their applicable license terms and attribution requirements.
 
 See the following files in the root of this repository for details:
 
@@ -230,7 +233,11 @@ Early project. Structure and policy are being established first.
 
 OFER is grateful for the open rules work that makes projects like this possible.
 
-Current acknowledgment:
+Current upstream sources acknowledged by this repository include:
 
-This work includes material taken from the Black Flag Reference Document 1.0 ("BFRD 1.0") by Kobold Press and available at https://koboldpress.com/Black-Flag-Roleplaying.
-The BFRD 1.0 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
+- A5E System Reference Document (A5ESRD) by EN Publishing
+- Black Flag Reference Document 1.0 (BFRD 1.0) by Kobold Press
+- System Reference Document 5.1 (SRD 5.1) by Wizards of the Coast LLC
+- System Reference Document 5.2 (SRD 5.2) by Wizards of the Coast LLC
+
+See `ATTRIBUTIONS.md` for the full attribution language used by the project.

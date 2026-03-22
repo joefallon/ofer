@@ -31,7 +31,10 @@ If you are not sure whether a source is safe to use, do not submit it until the 
 
 At present, OFER is using material derived from:
 
-- Black Flag Reference Document 1.0 (BFRD 1.0)
+- A5E System Reference Document (A5ESRD) by EN Publishing
+- Black Flag Reference Document 1.0 (BFRD 1.0) by Kobold Press
+- System Reference Document 5.1 (SRD 5.1) by Wizards of the Coast LLC
+- System Reference Document 5.2 (SRD 5.2) by Wizards of the Coast LLC
 
 Only sources actually used by the project are attributed in `ATTRIBUTIONS.md`.
 
