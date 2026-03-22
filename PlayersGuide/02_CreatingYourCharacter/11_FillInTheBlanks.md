@@ -56,7 +56,7 @@ Take your time here. A character sheet is much easier to use during play if thes
 
 ### Record Proficiencies and Features
 
-Make sure you have written down all of your character’s important proficiencies, traits, and special features from their class, lineage, heritage, and background.
+Make sure you have written down all of your character’s important proficiencies, traits, and special features from their class, lineage, culture, and background.
 
 This may include:
 

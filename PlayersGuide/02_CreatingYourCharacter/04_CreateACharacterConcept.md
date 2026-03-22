@@ -12,7 +12,7 @@ You might begin with questions like these:
 - **Do you picture your character as an ordinary person drawn into adventure, or someone born for it?**
 - **Do you imagine a human character, or someone from a more fantastical lineage?**
 
-A good concept helps guide the choices you make later. It can make it easier to choose your class, ability scores, lineage, heritage, and background.
+A good concept helps guide the choices you make later. It can make it easier to choose your class, ability scores, lineage, culture, and background.
 
 Your concept also does not have to be complete right away. You do not need a full life story before play begins. In many cases, a simple idea works best.
 

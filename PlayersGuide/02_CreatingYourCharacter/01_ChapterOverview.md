@@ -13,7 +13,7 @@ In this chapter, you will:
 - **choose a class**
 - **determine your ability scores**
 - **choose a lineage**
-- **choose a heritage**
+- **choose a culture**
 - **choose a background**
 - **determine your starting equipment**
 - **fill in the remaining details on your character sheet**

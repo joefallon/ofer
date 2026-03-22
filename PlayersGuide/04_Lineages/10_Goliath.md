@@ -84,7 +84,7 @@ When a creature within 60 feet of you deals damage to you, you can use your reac
 
 ### Playing a Goliath
 
-Goliaths often suit characters defined by strength, endurance, ambition, and visible physical presence. Some are driven by challenge, competition, and the need to prove themselves. Others are thoughtful, disciplined, and measured, carrying their great strength with calm restraint. One goliath might be a fearless climber and explorer, another a solemn guardian, another a proud warrior, and another a quiet traveler whose giant heritage appears only when pressure rises.
+Goliaths often suit characters defined by strength, endurance, ambition, and visible physical presence. Some are driven by challenge, competition, and the need to prove themselves. Others are thoughtful, disciplined, and measured, carrying their great strength with calm restraint. One goliath might be a fearless climber and explorer, another a solemn guardian, another a proud warrior, and another a quiet traveler whose culture appears only when pressure rises.
 
 When playing a goliath, think about questions like these:
 

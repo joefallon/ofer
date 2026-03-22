@@ -2,7 +2,7 @@
 
 ### Overview
 
-Dragonborn carry the visible mark of draconic heritage in their scales, bearing, and breath. Some descend from ancient dragon-blooded lines, while others inherit their power through stranger magical histories, but all dragonborn are shaped by draconic force. They are often proud, intense, and physically striking, with a presence that is hard to ignore.
+Dragonborn carry the visible mark of draconic lineage in their scales, bearing, and breath. Some descend from ancient dragon-blooded lines, while others inherit their power through stranger magical histories, but all dragonborn are shaped by draconic force. They are often proud, intense, and physically striking, with a presence that is hard to ignore.
 
 A dragonborn character is a strong choice for players who want a lineage that feels powerful, bold, and unmistakably magical.
 
@@ -99,7 +99,7 @@ You have a flying speed of 30 feet. You cannot use this flying speed while weari
 
 ### Playing a Dragonborn
 
-Dragonborn often suit characters with strong presence, conviction, or intensity. Some embrace the majesty of their draconic heritage, while others struggle against expectations placed on them by their appearance or bloodline. One dragonborn might be a proud champion, another a wandering mystic, another a ruthless mercenary, and another a thoughtful scholar whose power is always just beneath the surface.
+Dragonborn often suit characters with strong presence, conviction, or intensity. Some embrace the majesty of their draconic lineage, while others struggle against expectations placed on them by their appearance or bloodline. One dragonborn might be a proud champion, another a wandering mystic, another a ruthless mercenary, and another a thoughtful scholar whose power is always just beneath the surface.
 
 When playing a dragonborn, think about questions like these:
 

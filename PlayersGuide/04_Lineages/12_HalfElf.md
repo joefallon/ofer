@@ -2,7 +2,7 @@
 
 ### Overview
 
-Half-elves stand between worlds. They often inherit some of the grace and sensitivity of elves along with the adaptability and restless drive of humans, but no two half-elves express that heritage in exactly the same way. Some move easily between different communities, while others feel caught between them. Some are poised and diplomatic, some sharp-eyed and reserved, and some independent souls who learn to define themselves on their own terms.
+Half-elves stand between worlds. They often inherit some of the grace and sensitivity of elves along with the adaptability and restless drive of humans, but no two half-elves express that culture in exactly the same way. Some move easily between different communities, while others feel caught between them. Some are poised and diplomatic, some sharp-eyed and reserved, and some independent souls who learn to define themselves on their own terms.
 
 A half-elf character is a strong choice for players who want a lineage that feels versatile, perceptive, and shaped by more than one inheritance.
 
@@ -84,7 +84,7 @@ When playing a half-elf, think about questions like these:
 
 - Which side of your heritage is most visible to others, and which matters most to you?
 - Do you feel like a bridge between worlds, or like someone expected to choose between them?
-- Have you embraced your mixed heritage, hidden it, or built a new identity from it?
+- Have you embraced your mixed culture, hidden it, or built a new identity from it?
 - Does your character seek belonging, independence, recognition, or something else entirely?
 
 Half-elves are often at their best when they feel poised, adaptable, and a little difficult to place.

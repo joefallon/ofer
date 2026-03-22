@@ -1,6 +1,6 @@
 ## Chapter Overview
 
-Lineages describe the people your character comes from and the inherited traits that shape them. A lineage helps answer basic questions about your character’s body, instincts, and natural gifts. Are you sturdy and enduring like a dwarf, swift and perceptive like an elf, adaptable and driven like a human, or marked by some other distinct heritage?
+Lineages describe the people your character comes from and the inherited traits that shape them. A lineage helps answer basic questions about your character’s body, instincts, and natural gifts. Are you sturdy and enduring like a dwarf, swift and perceptive like an elf, adaptable and driven like a human, or marked by some other distinct culture?
 
 In OFER, a lineage is one part of your character, not the whole story. Two characters of the same lineage can feel completely different in play. One might be a disciplined soldier, another a wandering scholar, another a cheerful thief, and another a grim survivor. Your lineage gives you a foundation, but your choices, goals, class, background, and personality define who you become.
 

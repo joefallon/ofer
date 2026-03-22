@@ -1,6 +1,6 @@
 ## What Is a Lineage?
 
-A lineage represents the people your character comes from and the inherited traits that come with that heritage. It describes the broad physical and innate qualities your character was born with or shaped by through ancestry. A lineage helps define what your character is, but it does not fully define who your character is.
+A lineage represents the people your character comes from and inherited traits. It describes the broad physical and innate qualities your character was born with or shaped by through ancestry. A lineage helps define what your character is, but it does not fully define who your character is.
 
 Your lineage gives you a starting foundation during character creation. It may affect your size, speed, senses, resilience, natural talents, or other special traits. These features help distinguish one lineage from another in play. An elf and a dwarf may both become warriors, but they do not begin from exactly the same foundation. A human and a tiefling may both become scholars, but the gifts and qualities tied to their lineages can still make them feel very different at the table.
 

@@ -76,9 +76,9 @@ This includes things like:
 
 Your lineage helps define what your character is physically like and what special qualities they bring with them into the world.
 
-### Step 5. Choose a Heritage
+### Step 5. Choose a Culture
 
-Your heritage represents your character’s upbringing and cultural background.
+Your culture represents your character’s upbringing.
 
 This can affect things like:
 
@@ -87,7 +87,7 @@ This can affect things like:
 - **practical knowledge**
 - **learned cultural traits**
 
-If lineage helps explain where your character comes from by blood, heritage helps explain how your character was raised.
+If lineage helps explain where your character comes from by blood, culture helps explain how your character was raised.
 
 ### Step 6. Choose a Background
 

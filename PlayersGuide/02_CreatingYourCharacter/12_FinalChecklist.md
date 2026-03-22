@@ -86,9 +86,9 @@ Make sure you have recorded everything your lineage gives you, including your:
 - **additional proficiencies**, if any
     
 
-### 4. Your heritage
+### 4. Your culture
 
-Make sure you have recorded everything your heritage gives you, including any:
+Make sure you have recorded everything your culture gives you, including any:
 
 - **skills**
     
@@ -98,7 +98,7 @@ Make sure you have recorded everything your heritage gives you, including any:
     
 - **cultural or practical benefits**
     
-- **other heritage features**
+- **other culture features**
     
 
 ### 5. Your background
